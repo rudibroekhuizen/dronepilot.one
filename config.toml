@@ -1,10 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://dronepilot.one/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Number #1 dronepilot"
 theme = "simpleintro"
 
 [params]
     mainbg = "/images/rotterdam.jpeg"
-    name = "John Doe"
+    name = "dronepilot.one"
     mainTitle = "Simple-intro"
-    mainText = "Just simple intro theme for hugo"
+    mainText = "dronepilot.one"
