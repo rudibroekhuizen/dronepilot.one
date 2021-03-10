@@ -8,3 +8,13 @@ theme = "simpleintro"
     name = "dronepilot.one"
     mainTitle = "dronepilot.one"
     mainText = "Based in the Netherlands"
+
+[menus]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "#about"
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "#skills"
