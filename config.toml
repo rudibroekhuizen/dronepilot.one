@@ -6,5 +6,5 @@ theme = "simpleintro"
 [params]
     mainbg = "/images/rotterdam.jpeg"
     name = "dronepilot.one"
-    mainTitle = "Simple-intro"
+    mainTitle = "dronepilot.one"
     mainText = "dronepilot.one"
