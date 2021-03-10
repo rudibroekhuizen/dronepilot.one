@@ -1,24 +1,24 @@
 [[list]]
-    name = "go"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg"
+    title = "1"
+    image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        WIP tool to watch and analyse replays.
+        Try it live!
     """
+    link = "https://replay.shaddy.dev"
 [[list]]
-    name = "React"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg"
+    title = "2"
+    image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        Powers osu!replayer. 
+        Parsing and logic(soon) of osu!replayer with python bindings(soon).
     """
+    link = "https://github.com/ShaddyDC/osu_reader"
 [[list]]
-    name = "C/C++"
-    icon = "https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+    title = "3"
+    image = "https://picsum.photos/400/200"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        Powers osu!replayer. 
+        Allows the use of osu's api v2 and access from the browser.
     """
+    link = "https://github.com/ShaddyDC/osu-api-proxy"
