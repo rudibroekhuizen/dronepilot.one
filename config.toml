@@ -7,7 +7,7 @@ theme = "simpleintro"
     mainbg = "/images/maas.jpeg"
     name = "dronepilot.one"
     mainTitle = "dronepilot.one"
-    mainText = "Based in the Netherlands"
+    mainText = "the Netherlands"
 
 [menus]
     [[menu.main]]
