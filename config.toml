@@ -4,7 +4,7 @@ title = "Number #1 dronepilot"
 theme = "simpleintro"
 
 [params]
-    mainbg = "/images/rotterdam.jpeg"
+    mainbg = "/images/maas.jpeg"
     name = "dronepilot.one"
     mainTitle = "dronepilot.one"
     mainText = "Based in the Netherlands"
